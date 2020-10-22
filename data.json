@@ -1,0 +1,40 @@
+data=[
+{
+id:1,
+title: "Diseases in Dogs and Cats",
+author:"Anjop Venker-van Haagen",
+description: "Ear, Nose, Throat, and Tracheobronchial Diseases in Dogs and Cats is the first textbook to provide a complete overview of all ENT diseases, both common and rare. It includes such problems as inflammation of the outer ear, deafness, nasal discharge, swallowing disorders, and cough. Detailed and up to date clinical information gives insight into ENT function and dysfunction for teachers and researchers, veterinarians in practice and veterinary students. Six chapters give key information on functional considerations, aetiology, clinical signs, diagnosis, and therapy of ENT disorders. Special diagnostic and imaging techniques are described in detail. Approximately 180 top quality illustrations emphasize and supplement the specific features of the diseases and disorders described in the text. A detailed index gives easy access to the content of this book. This unique textbook will provide a highly useful and informative reference guide to everyday practice, based on the author¿s 35 years as a specialist in ear, nose, throat, and tracheobronchial diseases in companion animals.",
+img: "http://books.google.com/books/content?id=hdMuBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE710xH9xuzJAfH0MkODPOEYy2HgQdW7-XGmN8fLlWxij0mYhtBL7gUZpy96-rL2ExWsBTvd7WJrXMeAt9w_CR5CG9tQG9ZmbnJHGls7KHVdh79vrgq0yyafXnqMvxZK5AQb0O3M7&source=gbs_api",
+
+},
+
+{
+id:2,
+title: "Die Airport-Cats",
+author:"Sven Kläschen",
+description: "Seitdem die Airport-Cats im verborgenen Hexenhaus von Ariella leben, ist dort ganz schön was los. Und an Halloween ganz besonders, da sich Herr Tintenstiel, der Rabe und Hulla, die kleine Eule in wahre Gestalt verwandeln. Das getarnte Hexenhaus befindet sich in der Nähe vom Hamburg Airport, wo die Vier Wollknäuel Feli, Emma Mautz und Piet stets auf Mäusejagd gehen. In der Halloween-Nacht erleben sie dort eines ihrer gruseligste Abenteuer. Und dann wird auch noch ihr Freund Sean, der Wachmann vom Hamburg Airport, im Traum von einer Stimme aus dem Nichts heimgesucht. Ein sprechendes Buch gibt ihm ein Rätsel auf, was er nur gemeinsam mit der Hexe Ariella, ihrem Bruder Rumbold und den Airport-Cats lösen kann. Die Airport-Cats ahnen nicht, wie wichtig die Lösung des Rätsels für sie sein wird. All das wird erzählt von einer kleinen dicken Maus namens Roquefort junior, die beim Erzählen das eine oder andere Stückchen Käse oder Speck verspeist.",
+img:  "http://books.google.com/books/content?id=Q3amDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70WSSYWBX4Ai4cpYJn5F5f7qZLDoul-A3D60c6QmjgndgO88kUkWzAMfu0zPia5wdwJ1GmztNS43Re_hjQ7gngRMFlKOMtXZevBeMV92MdvIzG1Zi777k6j9AfpeWd9pDdOQqoI&source=gbs_api"
+
+
+},
+{
+id:3,
+title: "Sinnreiche Wercke und Gedichte",
+author:"Jacob Cats",
+description: "Seitdem die Airport-Cats im verborgenen Hexenhaus von Ariella leben, ist dort ganz schön was los. Und an Halloween ganz besonders, da sich Herr Tintenstiel, der Rabe und Hulla, die kleine Eule in wahre Gestalt verwandeln. Das getarnte Hexenhaus befindet sich in der Nähe vom Hamburg Airport, wo die Vier Wollknäuel Feli, Emma Mautz und Piet stets auf Mäusejagd gehen. In der Halloween-Nacht erleben sie dort eines ihrer gruseligste Abenteuer. Und dann wird auch noch ihr Freund Sean, der Wachmann vom Hamburg Airport, im Traum von einer Stimme aus dem Nichts heimgesucht. Ein sprechendes Buch gibt ihm ein Rätsel auf, was er nur gemeinsam mit der Hexe Ariella, ihrem Bruder Rumbold und den Airport-Cats lösen kann. Die Airport-Cats ahnen nicht, wie wichtig die Lösung des Rätsels für sie sein wird. All das wird erzählt von einer kleinen dicken Maus namens Roquefort junior, die beim Erzählen das eine oder andere Stückchen Käse oder Speck verspeist.",
+img:  "http://books.google.com/books/content?id=d1leAAAAcAAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73fdX8Ye20CLKGg_IHTCO1SOh0kbd_zkwhWayJwQZJRA1FUi44NqN5xI0-4cbjzr1pP0H0hrbVAbA8VsW6PpPYlggQZ6D36cL6BASv__BgZrUJQOeBYPWFyniNpsK7EEO0BWDF_&source=gbs_api"
+
+},
+
+{
+id:4,
+title: "All Eye Cats",
+author:"Christian Damerow",
+description: "Seitdem die Airport-Cats im verborgenen Hexenhaus von Ariella leben, ist dort ganz schön was los. Und an Halloween ganz besonders, da sich Herr Tintenstiel, der Rabe und Hulla, die kleine Eule in wahre Gestalt verwandeln. Das getarnte Hexenhaus befindet sich in der Nähe vom Hamburg Airport, wo die Vier Wollknäuel Feli, Emma Mautz und Piet stets auf Mäusejagd gehen. In der Halloween-Nacht erleben sie dort eines ihrer gruseligste Abenteuer. Und dann wird auch noch ihr Freund Sean, der Wachmann vom Hamburg Airport, im Traum von einer Stimme aus dem Nichts heimgesucht. Ein sprechendes Buch gibt ihm ein Rätsel auf, was er nur gemeinsam mit der Hexe Ariella, ihrem Bruder Rumbold und den Airport-Cats lösen kann. Die Airport-Cats ahnen nicht, wie wichtig die Lösung des Rätsels für sie sein wird. All das wird erzählt von einer kleinen dicken Maus namens Roquefort junior, die beim Erzählen das eine oder andere Stückchen Käse oder Speck verspeist.",
+img:  "http://books.google.com/books/content?id=qhVpZbtBheAC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72EFQgEnHXS7dCqtGuNvxiVq737g3kf232obDDUFBdG9Z7Cmjyrw2Kudec9dPf6IXYKPzNVlvX6cxj6T-RTEExyPfyXZeK-R7JWGb4Ar55Pxc7OBOdn3NOpIiJwhCnlbzL_xnye&source=gbs_api"
+
+},
+
+
+
+]
